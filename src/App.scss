@@ -1,2 +1,8 @@
 $primary-color: #ffd700;
 
+@import 'animate.css';
+
+@font-face {
+  font-family: 'Mingen Xiao';
+  src: url('./assets/fonts/mingen-xiao.ttf') format('ttf');
+}
